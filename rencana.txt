@@ -6,9 +6,9 @@ Rencana
     ^ CSS
     ^ Javascript -> React
   * Back-End
-    ^ PHP -> Laravel
+    ^ PHP -> Codeigniter
   * Tools
-    ^ Sublime
+    ^ Visual Studio Code
 - Improve Typing Speed & Acc
   * 10 jari -> TypingTest (online)
 - Wisuda 2022
