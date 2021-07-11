@@ -1,5 +1,9 @@
 Rencana
 
 - Belajar Programming WPU
+  * Front-End
+  * Back-End
+  * Tools
 - Improve Typing Speed & Acc
+  * 10 jari
 - Wisuda 2022
