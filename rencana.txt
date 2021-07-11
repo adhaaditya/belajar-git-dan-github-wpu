@@ -2,8 +2,12 @@ Rencana
 
 - Belajar Programming WPU
   * Front-End
+    ^ HTML
+    ^ CSS
+    ^ Javascript -> Vue
   * Back-End
+    ^ PHP -> Codeigniter
   * Tools
+    ^ Visual Studio Code
 - Improve Typing Speed & Acc
   * 10 jari
-- Wisuda 2022
