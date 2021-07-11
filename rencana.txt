@@ -2,8 +2,13 @@ Rencana
 
 - Belajar Programming WPU
   * Front-End
+    ^ HTML
+    ^ CSS
+    ^ Javascript -> React
   * Back-End
+    ^ PHP -> Laravel
   * Tools
+    ^ Sublime
 - Improve Typing Speed & Acc
-  * 10 jari
+  * 10 jari -> TypingTest (online)
 - Wisuda 2022
