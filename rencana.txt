@@ -4,10 +4,11 @@ Rencana
   * Front-End
     ^ HTML
     ^ CSS
-    ^ Javascript -> Vue
+    ^ Javascript -> React
   * Back-End
     ^ PHP -> Codeigniter
   * Tools
     ^ Visual Studio Code
 - Improve Typing Speed & Acc
-  * 10 jari
+  * 10 jari -> TypingTest (online)
+- Wisuda 2022
